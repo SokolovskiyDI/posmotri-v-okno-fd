@@ -1,3 +1,5 @@
-# posmotri-v-okno-fd
-# posmotri-v-okno-fd
-# posmotri-v-okno-fd
+# Спринт 2. Проектная работа «Посмотри в окно»
+* Студент: Соколовский Дмитрий
+
+posmotri-v-okno-fd
+
